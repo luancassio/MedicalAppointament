@@ -1,0 +1,39 @@
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Persistence\bin\Debug\net6.0\MedicalAppointment.Persistence.deps.json
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Persistence\bin\Debug\net6.0\MedicalAppointment.Persistence.runtimeconfig.json
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Persistence\bin\Debug\net6.0\MedicalAppointment.Persistence.dll
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Persistence\bin\Debug\net6.0\MedicalAppointment.Persistence.pdb
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Persistence\bin\Debug\net6.0\MedicalAppointment.Domain.dll
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Persistence\bin\Debug\net6.0\MedicalAppointment.Domain.pdb
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Persistence\obj\Debug\net6.0\MedicalAppointment.Persistence.csproj.AssemblyReference.cache
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Persistence\obj\Debug\net6.0\MedicalAppointment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Persistence\obj\Debug\net6.0\MedicalAppointment.Persistence.AssemblyInfoInputs.cache
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Persistence\obj\Debug\net6.0\MedicalAppointment.Persistence.AssemblyInfo.cs
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Persistence\obj\Debug\net6.0\MedicalAppointment.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Persistence\obj\Debug\net6.0\MedicalAppointment.Persistence.csproj.CopyComplete
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Persistence\obj\Debug\net6.0\MedicalAppointment.Persistence.dll
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Persistence\obj\Debug\net6.0\refint\MedicalAppointment.Persistence.dll
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Persistence\obj\Debug\net6.0\MedicalAppointment.Persistence.pdb
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Persistence\obj\Debug\net6.0\MedicalAppointment.Persistence.genruntimeconfig.cache
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Persistence\obj\Debug\net6.0\ref\MedicalAppointment.Persistence.dll
+C:\Users\lcoliveira\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Área de Trabalho\Arquivos\Projetos\Projetos\MedicalAppointment.API\MedicalAppointment.Persistence\obj\Debug\net6.0\MedicalAppointment.Persistence.csproj.AssemblyReference.cache
+C:\Users\lcoliveira\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Área de Trabalho\Arquivos\Projetos\Projetos\MedicalAppointment.API\MedicalAppointment.Persistence\obj\Debug\net6.0\MedicalAppointment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcoliveira\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Área de Trabalho\Arquivos\Projetos\Projetos\MedicalAppointment.API\MedicalAppointment.Persistence\obj\Debug\net6.0\MedicalAppointment.Persistence.dll
+C:\Users\lcoliveira\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Área de Trabalho\Arquivos\Projetos\Projetos\MedicalAppointment.API\MedicalAppointment.Persistence\obj\Debug\net6.0\refint\MedicalAppointment.Persistence.dll
+C:\Users\lcoliveira\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Área de Trabalho\Arquivos\Projetos\Projetos\MedicalAppointment.API\MedicalAppointment.Persistence\obj\Debug\net6.0\MedicalAppointment.Persistence.pdb
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Persistence\bin\Debug\net6.0\MedicalAppointment.Persistence.deps.json
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Persistence\bin\Debug\net6.0\MedicalAppointment.Persistence.runtimeconfig.json
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Persistence\bin\Debug\net6.0\MedicalAppointment.Persistence.dll
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Persistence\bin\Debug\net6.0\MedicalAppointment.Persistence.pdb
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Persistence\bin\Debug\net6.0\MedicalAppointment.Domain.dll
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Persistence\bin\Debug\net6.0\MedicalAppointment.Domain.pdb
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Persistence\obj\Debug\net6.0\MedicalAppointment.Persistence.csproj.AssemblyReference.cache
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Persistence\obj\Debug\net6.0\MedicalAppointment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Persistence\obj\Debug\net6.0\MedicalAppointment.Persistence.AssemblyInfoInputs.cache
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Persistence\obj\Debug\net6.0\MedicalAppointment.Persistence.AssemblyInfo.cs
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Persistence\obj\Debug\net6.0\MedicalAppointment.Persistence.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Persistence\obj\Debug\net6.0\MedicalAppointment.Persistence.csproj.CopyComplete
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Persistence\obj\Debug\net6.0\MedicalAppointment.Persistence.dll
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Persistence\obj\Debug\net6.0\refint\MedicalAppointment.Persistence.dll
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Persistence\obj\Debug\net6.0\MedicalAppointment.Persistence.pdb
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Persistence\obj\Debug\net6.0\MedicalAppointment.Persistence.genruntimeconfig.cache
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Persistence\obj\Debug\net6.0\ref\MedicalAppointment.Persistence.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MedicalAppointment.Exception/1.0.0": {
+        "runtime": {
+          "MedicalAppointment.Exception.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MedicalAppointment.Exception/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

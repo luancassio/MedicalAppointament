@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MedicalAppointment.API</name>
+    </assembly>
+    <members>
+        <member name="M:MedicalAppointment.API.Controllers.AuthenticationController.GetAllUsers">
+            <summary>
+            Busca todos os usuários.
+            </summary>
+            <returns>Um novo item criado</returns>
+            <response code="200">Caso usuário esteja autenticado é autorizado ele vai conseguir recuperar a lista de usuários.</response>
+            <response code="401">Se o usuário não tiver autenticado.</response>
+            <response code="403">Se o usuário tiver autenticado mas não tiver autorização.</response>  
+            
+        </member>
+        <member name="M:MedicalAppointment.API.Controllers.AuthenticationController.CreateUser(MedicalAppointment.Application.Dto.UserDto)">
+            <summary>
+            Cria um novo usuário.
+            </summary>
+            <param name="user"></param>
+            <returns>Um novo item criado</returns>
+            <response code="201">Retorna o novo item criado</response>
+            <response code="400">Se o item não for criado</response>  
+        </member>
+        <member name="M:MedicalAppointment.API.Controllers.AuthenticationController.AuthUser(MedicalAppointment.Domain.Entity.Login)">
+             <summary>
+             Criar token do usuário.
+             </summary>
+             <remarks>
+             Exemplo:
+            
+                 POST /auth/user
+                 {
+                    "email": "email@email.com",
+                    "password": "P@ssword123"
+                 }
+            
+             </remarks>
+             <param name="login"></param>
+             <returns>Um novo item criado</returns>
+             <response code="201 - Created">Retorna o novo item criado</response>
+             <response code="400">caso não consiga criar ou se o campos forem vazio ou null.</response>  
+             
+        </member>
+        <member name="M:MedicalAppointment.API.Controllers.AuthenticationController.DeleteUser(System.String)">
+            <summary>
+            Criar token do usuário.
+            </summary>
+            <param name="email"></param>
+            <returns>Um novo item criado</returns>
+            <response code="202">Caso consiga deleta o usuário com sucesso.</response>
+            <response code="400">caso não consiga criar ou se o campo for vazio ou null.</response> 
+        </member>
+        <member name="M:MedicalAppointment.API.Controllers.AuthenticationController.UpdateUser(MedicalAppointment.Application.Dto.UserDto)">
+            <summary>
+            Atualizar usuário.
+            </summary>
+            <param name="user"></param>
+            <returns>Um novo item criado</returns>
+            <response code="201">Caso consiga atualizar o usuário com sucesso.</response>
+            <response code="400">caso não consiga criar ou se o campo for vazio ou null.</response> 
+        </member>
+        <member name="M:MedicalAppointment.API.Controllers.AuthenticationController.ForgotPassword(MedicalAppointment.Domain.Entity.ForgotPassword)">
+            <summary>
+            Quando o Usuário esquecer a senha manda um link para se email.
+            </summary>
+            <param name="forgotPassword"></param>
+            <returns>Um novo item criado</returns>
+            <response code="201">Caso consiga gerar o link para resetar sua senha.</response>
+            <response code="400">caso não consiga gerar o link ou se o campo for vazio ou null.</response> 
+        </member>
+        <member name="M:MedicalAppointment.API.Controllers.AuthenticationController.ResetPassword(MedicalAppointment.Domain.Entity.ResetPassword)">
+            <summary>
+            validar as novas credenciais do usuário.
+            </summary>
+            <param name="resetPassword"></param>
+            <returns>Um novo item criado</returns>
+            <response code="201">Caso consiga gerar o link para resetar sua senha.</response>
+            <response code="400">caso não consiga gerar o link ou se o campo for vazio ou null.</response> 
+        </member>
+        <member name="M:MedicalAppointment.API.Controllers.RoleController.CreateRole(System.String)">
+            <summary>
+            Cria uma nova função.
+            </summary>
+            <param name="role"></param>
+            <returns>Um novo item criado</returns>
+            <response code="201">Criado com sucesso.</response>
+            <response code="400">caso não consiga criar ou se o campo for vazio ou null.</response>  
+        </member>
+        <member name="M:MedicalAppointment.API.Controllers.RoleController.GetAllRoles">
+            <summary>
+            Busca todas Funções.
+            </summary>
+            <returns>Um novo item criado</returns>
+            <response code="200">Caso consiga recuperar a lista de Funções</response>
+            <response code="400">caso não consiga criar ou se o campo for vazio ou null.</response>  
+        </member>
+        <member name="M:MedicalAppointment.API.Controllers.RoleController.AddRoleInUser(System.String,System.String)">
+            <summary>
+            Atribuir uma função para um usuário.
+            </summary>
+            <param name="role"></param>
+            <param name="email"></param>
+            <returns>Um novo item criado</returns>
+            <response code="201">Retorna o novo item criado</response>
+            <response code="400">caso não consiga criar ou se os campos forem vazio ou null.</response>  
+        </member>
+        <member name="M:MedicalAppointment.API.Controllers.RoleController.GetUserRoles(System.String)">
+            <summary>
+            Buscar Funções atribuidas ao usuário.
+            </summary>
+            <param name="email" cref="T:System.String"></param>
+            <returns>Um novo item criado</returns>
+            <response code="201">Retorna o novo item criado</response>
+            <response code="400">caso não consiga criar ou se o campo for vazio ou null.</response>  
+        </member>
+        <member name="M:MedicalAppointment.API.Controllers.RoleController.RemoveUserRole(System.String,System.String)">
+            <summary>
+            Removendo uma função para um usuário.
+            </summary>
+            <param name="role"></param>
+            <param name="email"></param>
+            <returns>Um novo item criado</returns>
+            <response code="202">Caso consiga deleta a função com sucesso.</response>
+            <response code="400">caso não consiga criar ou se os campos forem vazio ou null.</response>  
+        </member>
+        <member name="M:MedicalAppointment.API.Controllers.RoleController.RemoveRole(System.String)">
+            <summary>
+            Removendo uma função para um usuário.
+            </summary>
+            <param name="role"></param>
+            <returns>Um novo item criado</returns>
+            <response code="202">Caso consiga deleta a função com sucesso.</response>
+            <response code="400">caso não consiga criar ou se o campo for vazio ou null.</response>  
+        </member>
+    </members>
+</doc>

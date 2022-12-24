@@ -1,0 +1,29 @@
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Exception\bin\Debug\net6.0\MedicalAppointment.Exception.deps.json
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Exception\bin\Debug\net6.0\MedicalAppointment.Exception.dll
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Exception\bin\Debug\net6.0\MedicalAppointment.Exception.pdb
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Exception\obj\Debug\net6.0\MedicalAppointment.Exception.csproj.AssemblyReference.cache
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Exception\obj\Debug\net6.0\MedicalAppointment.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Exception\obj\Debug\net6.0\MedicalAppointment.Exception.AssemblyInfoInputs.cache
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Exception\obj\Debug\net6.0\MedicalAppointment.Exception.AssemblyInfo.cs
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Exception\obj\Debug\net6.0\MedicalAppointment.Exception.csproj.CoreCompileInputs.cache
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Exception\obj\Debug\net6.0\MedicalAppointment.Exception.dll
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Exception\obj\Debug\net6.0\refint\MedicalAppointment.Exception.dll
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Exception\obj\Debug\net6.0\MedicalAppointment.Exception.pdb
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Exception\obj\Debug\net6.0\ref\MedicalAppointment.Exception.dll
+C:\Users\lcoliveira\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Área de Trabalho\Arquivos\Projetos\Projetos\MedicalAppointment.API\MedicalAppointment.Exception\obj\Debug\net6.0\MedicalAppointment.Exception.csproj.AssemblyReference.cache
+C:\Users\lcoliveira\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Área de Trabalho\Arquivos\Projetos\Projetos\MedicalAppointment.API\MedicalAppointment.Exception\obj\Debug\net6.0\MedicalAppointment.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcoliveira\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Área de Trabalho\Arquivos\Projetos\Projetos\MedicalAppointment.API\MedicalAppointment.Exception\obj\Debug\net6.0\MedicalAppointment.Exception.dll
+C:\Users\lcoliveira\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Área de Trabalho\Arquivos\Projetos\Projetos\MedicalAppointment.API\MedicalAppointment.Exception\obj\Debug\net6.0\refint\MedicalAppointment.Exception.dll
+C:\Users\lcoliveira\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Área de Trabalho\Arquivos\Projetos\Projetos\MedicalAppointment.API\MedicalAppointment.Exception\obj\Debug\net6.0\MedicalAppointment.Exception.pdb
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Exception\bin\Debug\net6.0\MedicalAppointment.Exception.deps.json
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Exception\bin\Debug\net6.0\MedicalAppointment.Exception.dll
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Exception\bin\Debug\net6.0\MedicalAppointment.Exception.pdb
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Exception\obj\Debug\net6.0\MedicalAppointment.Exception.csproj.AssemblyReference.cache
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Exception\obj\Debug\net6.0\MedicalAppointment.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Exception\obj\Debug\net6.0\MedicalAppointment.Exception.AssemblyInfoInputs.cache
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Exception\obj\Debug\net6.0\MedicalAppointment.Exception.AssemblyInfo.cs
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Exception\obj\Debug\net6.0\MedicalAppointment.Exception.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Exception\obj\Debug\net6.0\MedicalAppointment.Exception.dll
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Exception\obj\Debug\net6.0\refint\MedicalAppointment.Exception.dll
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Exception\obj\Debug\net6.0\MedicalAppointment.Exception.pdb
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Exception\obj\Debug\net6.0\ref\MedicalAppointment.Exception.dll

@@ -1,0 +1,36 @@
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Domain\bin\Debug\net6.0\MedicalAppointment.Domain.deps.json
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Domain\bin\Debug\net6.0\MedicalAppointment.Domain.dll
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Domain\bin\Debug\net6.0\MedicalAppointment.Domain.pdb
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Domain\obj\Debug\net6.0\MedicalAppointment.Domain.csproj.AssemblyReference.cache
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Domain\obj\Debug\net6.0\MedicalAppointment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Domain\obj\Debug\net6.0\MedicalAppointment.Domain.AssemblyInfoInputs.cache
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Domain\obj\Debug\net6.0\MedicalAppointment.Domain.AssemblyInfo.cs
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Domain\obj\Debug\net6.0\MedicalAppointment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Domain\obj\Debug\net6.0\MedicalAppointment.Domain.dll
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Domain\obj\Debug\net6.0\refint\MedicalAppointment.Domain.dll
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Domain\obj\Debug\net6.0\MedicalAppointment.Domain.pdb
+C:\Users\lcoliveira\Desktop\Projetos\MedicalAppointment.API\MedicalAppointment.Domain\obj\Debug\net6.0\ref\MedicalAppointment.Domain.dll
+C:\Users\lcoliveira\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Área de Trabalho\Arquivos\Projetos\Projetos\MedicalAppointment.API\MedicalAppointment.Domain\bin\Debug\net6.0\MedicalAppointment.Domain.deps.json
+C:\Users\lcoliveira\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Área de Trabalho\Arquivos\Projetos\Projetos\MedicalAppointment.API\MedicalAppointment.Domain\bin\Debug\net6.0\MedicalAppointment.Domain.dll
+C:\Users\lcoliveira\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Área de Trabalho\Arquivos\Projetos\Projetos\MedicalAppointment.API\MedicalAppointment.Domain\bin\Debug\net6.0\MedicalAppointment.Domain.pdb
+C:\Users\lcoliveira\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Área de Trabalho\Arquivos\Projetos\Projetos\MedicalAppointment.API\MedicalAppointment.Domain\obj\Debug\net6.0\MedicalAppointment.Domain.csproj.AssemblyReference.cache
+C:\Users\lcoliveira\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Área de Trabalho\Arquivos\Projetos\Projetos\MedicalAppointment.API\MedicalAppointment.Domain\obj\Debug\net6.0\MedicalAppointment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcoliveira\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Área de Trabalho\Arquivos\Projetos\Projetos\MedicalAppointment.API\MedicalAppointment.Domain\obj\Debug\net6.0\MedicalAppointment.Domain.AssemblyInfoInputs.cache
+C:\Users\lcoliveira\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Área de Trabalho\Arquivos\Projetos\Projetos\MedicalAppointment.API\MedicalAppointment.Domain\obj\Debug\net6.0\MedicalAppointment.Domain.AssemblyInfo.cs
+C:\Users\lcoliveira\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Área de Trabalho\Arquivos\Projetos\Projetos\MedicalAppointment.API\MedicalAppointment.Domain\obj\Debug\net6.0\MedicalAppointment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lcoliveira\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Área de Trabalho\Arquivos\Projetos\Projetos\MedicalAppointment.API\MedicalAppointment.Domain\obj\Debug\net6.0\MedicalAppointment.Domain.dll
+C:\Users\lcoliveira\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Área de Trabalho\Arquivos\Projetos\Projetos\MedicalAppointment.API\MedicalAppointment.Domain\obj\Debug\net6.0\refint\MedicalAppointment.Domain.dll
+C:\Users\lcoliveira\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Área de Trabalho\Arquivos\Projetos\Projetos\MedicalAppointment.API\MedicalAppointment.Domain\obj\Debug\net6.0\MedicalAppointment.Domain.pdb
+C:\Users\lcoliveira\OneDrive - Foursys Projetos e Sistemas em Informática Ltda\Área de Trabalho\Arquivos\Projetos\Projetos\MedicalAppointment.API\MedicalAppointment.Domain\obj\Debug\net6.0\ref\MedicalAppointment.Domain.dll
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Domain\bin\Debug\net6.0\MedicalAppointment.Domain.deps.json
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Domain\bin\Debug\net6.0\MedicalAppointment.Domain.dll
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Domain\bin\Debug\net6.0\MedicalAppointment.Domain.pdb
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Domain\obj\Debug\net6.0\MedicalAppointment.Domain.csproj.AssemblyReference.cache
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Domain\obj\Debug\net6.0\MedicalAppointment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Domain\obj\Debug\net6.0\MedicalAppointment.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Domain\obj\Debug\net6.0\MedicalAppointment.Domain.AssemblyInfo.cs
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Domain\obj\Debug\net6.0\MedicalAppointment.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Domain\obj\Debug\net6.0\MedicalAppointment.Domain.dll
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Domain\obj\Debug\net6.0\refint\MedicalAppointment.Domain.dll
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Domain\obj\Debug\net6.0\MedicalAppointment.Domain.pdb
+C:\Projetos\Estudos\MedicalAppointment.API\MedicalAppointment.Domain\obj\Debug\net6.0\ref\MedicalAppointment.Domain.dll
